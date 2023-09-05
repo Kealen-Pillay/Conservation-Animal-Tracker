@@ -1,4 +1,4 @@
-# ENSE810 - Conservation Animal Tracker
+# Conservation Animal Tracker
 
 This software represents a system that is intended to aid in research and conservation efforts towards animals and
 endangered species. The real-world application of this system would be seen in wildlife reserves, animal sanctuaries,
