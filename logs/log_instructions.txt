@@ -1,0 +1,5 @@
+LOG INSTRUCTIONS
+================
+* These logs contain all animal sightings.
+* Each animal is logged as a separate .txt log file.
+* Each log file contains the animal that has been sighted, sightings, and a summary of the animal.
